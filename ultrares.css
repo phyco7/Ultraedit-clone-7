@@ -376,7 +376,8 @@ nav>img {
         text-align: center;
         width: 100%;
         position: relative;
-        bottom: 40px;
+        bottom: 10px;
+    padding-bottom: 18px
     }
 
     #p2 {
